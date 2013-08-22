@@ -5,10 +5,10 @@ Developer Interface
 
 .. module:: requests
 
-This part of the documentation covers all the interfaces of Requests.  For
-parts where Requests depends on external libraries, we document the most
-important right here and provide links to the canonical documentation.
-
+Dit gedeelte van de documentatie bespreekt alle interfaces van Requests. Voor
+onderdelen waar Requests afhankelijk is van externe libraries, zullen we de
+meest belangrijke dingen hier documenteren en links geven voor de eigen 
+documentatie.
 
 Main Interface
 --------------
